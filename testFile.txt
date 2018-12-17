@@ -11,8 +11,8 @@ Cuarta
 para F2
 
 
-<<<<<<< Updated upstream
-=======
+
 
 stash
->>>>>>> Stashed changes
+
+stash
